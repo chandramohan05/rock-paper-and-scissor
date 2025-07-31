@@ -1,4 +1,4 @@
-🎮 Rock-Paper-Scissors Game
+#🎮 Rock-Paper-Scissors Game
 This repository contains the source code for a simple yet fun Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. The game features animated gestures, real-time score updates, and a clean user interface. It simulates a user-versus-computer gameplay experience and is a great beginner-friendly project to understand DOM manipulation and basic game logic.
 
 ✨ Features
